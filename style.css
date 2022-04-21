@@ -1,0 +1,28 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: rgb(247, 246, 242);
+    font-stretch: condensed;
+    
+}  
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    font-style: italic;
+    color: beige;
+     
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(247, 246, 242);
+    font-stretch: condensed;
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+}  
